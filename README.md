@@ -26,9 +26,11 @@
  2. 克隆项目
 
  3. 安装依赖库
- pip install -r requirements.txt
 
- 4. 运行程序
+ ```pip install -r requirements.txt
 
- python main_gui.py
+ 5. 运行程序
+
+ ```python main_gui.py
+
 
