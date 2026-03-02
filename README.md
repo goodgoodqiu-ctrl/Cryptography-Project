@@ -27,10 +27,11 @@
 
  3. 安装依赖库
 
- ```pip install -r requirements.txt
+ pip install -r requirements.txt
 
- 5. 运行程序
+ 4. 运行程序
 
- ```python main_gui.py
+ python main_gui.py
+
 
 
