@@ -1,4 +1,4 @@
-# 同态加密与加密通信演示平台
+# 同态加密与混合加密通信演示平台
 
 本项目是为密码学课程设计的大作业演示系统。采用 Python GUI 框架构建，集成了“基于 Paillier 算法的隐私计算投票系统”与“基于 RSA+AES 的混合加密安全通信系统”。
 
@@ -24,4 +24,5 @@
  pip install -r requirements.txt
 
  4. 运行程序
+
  python main_gui.py
